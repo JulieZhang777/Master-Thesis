@@ -1,10 +1,5 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-Created on Wed May 14 15:27:20 2025
-
-@author: yachi
-"""
 
 from collections import Counter
 import pm4py
