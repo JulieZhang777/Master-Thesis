@@ -1,2 +1,3 @@
 # Master-Thesis
-Improving deep learning in predictive process monitoring using discovered process models
+This repository contains the source code developed for the master's thesis titled "Improving Deep Learning in Predictive Process Monitoring Using Discovered Process Models", conducted as part of the Master of Information Management program at the Faculty of Economics and Business, KU Leuven.
+The project explores how structural information extracted from process discovery techniques—such as Directly-Follows Graphs (DFG) and Petri nets—can be integrated into deep learning models (specifically LSTM networks) to affect the performance of next-event prediction in business process monitoring. The repository includes baseline models, structurally enhanced models, experimental setups, evaluation scripts, and sample datasets.
