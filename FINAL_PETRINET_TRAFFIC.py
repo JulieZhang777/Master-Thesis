@@ -1,10 +1,5 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-Created on Wed May 14 16:52:56 2025
-
-@author: yachi
-"""
 
 
 from collections import Counter
